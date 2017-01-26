@@ -1,0 +1,17 @@
+C:\desenvolvimento\c#\ualabi\pdf\Business\bin\Release\Business.dll
+C:\desenvolvimento\c#\ualabi\pdf\Business\bin\Release\Business.pdb
+C:\desenvolvimento\c#\ualabi\pdf\Business\bin\Release\Entities.dll
+C:\desenvolvimento\c#\ualabi\pdf\Business\bin\Release\Helpers.dll
+C:\desenvolvimento\c#\ualabi\pdf\Business\bin\Release\itextsharp.dll
+C:\desenvolvimento\c#\ualabi\pdf\Business\bin\Release\itextsharp.xmlworker.dll
+C:\desenvolvimento\c#\ualabi\pdf\Business\bin\Release\Entities.pdb
+C:\desenvolvimento\c#\ualabi\pdf\Business\bin\Release\Helpers.pdb
+C:\desenvolvimento\c#\ualabi\pdf\Business\bin\Release\itextsharp.xml
+C:\desenvolvimento\c#\ualabi\pdf\Business\obj\Release\Business.csprojResolveAssemblyReference.cache
+C:\desenvolvimento\c#\ualabi\pdf\Business\obj\Release\Business.dll
+C:\desenvolvimento\c#\ualabi\pdf\Business\obj\Release\Business.pdb
+C:\desenvolvimento\c#\ualabi\pdf\Business\bin\Release\Business.dll.config
+C:\desenvolvimento\c#\ualabi\pdf\Business\bin\Release\SendGrid.dll
+C:\desenvolvimento\c#\ualabi\pdf\Business\bin\Release\Newtonsoft.Json.dll
+C:\desenvolvimento\c#\ualabi\pdf\Business\bin\Release\SendGrid.CSharp.HTTP.Client.dll
+C:\desenvolvimento\c#\ualabi\pdf\Business\bin\Release\Newtonsoft.Json.xml

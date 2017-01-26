@@ -1,0 +1,5 @@
+C:\desenvolvimento\c#\ualabi\pdf\entities\bin\Debug\Entities.dll
+C:\desenvolvimento\c#\ualabi\pdf\entities\bin\Debug\Entities.pdb
+C:\desenvolvimento\c#\ualabi\pdf\entities\obj\Debug\Entities.dll
+C:\desenvolvimento\c#\ualabi\pdf\entities\obj\Debug\Entities.pdb
+C:\desenvolvimento\c#\ualabi\pdf\entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
